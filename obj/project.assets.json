@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/christian/.nuget/packages/": {}
+    "C:\\Users\\Christian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/christian/DevEnv/Projects/Amateur/CSharp/christiangapgue.cm/test/Hello2024CSharp/Hello2024CSharp.csproj",
+      "projectUniqueName": "D:\\DevEnv\\Projects\\Amateur\\dotNet\\CSharp\\tests\\Hello2024CSharp\\Hello2024CSharp.csproj",
       "projectName": "Hello2024CSharp",
-      "projectPath": "/home/christian/DevEnv/Projects/Amateur/CSharp/christiangapgue.cm/test/Hello2024CSharp/Hello2024CSharp.csproj",
-      "packagesPath": "/home/christian/.nuget/packages/",
-      "outputPath": "/home/christian/DevEnv/Projects/Amateur/CSharp/christiangapgue.cm/test/Hello2024CSharp/obj/",
+      "projectPath": "D:\\DevEnv\\Projects\\Amateur\\dotNet\\CSharp\\tests\\Hello2024CSharp\\Hello2024CSharp.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "D:\\DevEnv\\Projects\\Amateur\\dotNet\\CSharp\\tests\\Hello2024CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/christian/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

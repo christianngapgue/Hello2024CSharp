@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4N0JnXERRTc4FLdxip4PlwKqwIwx5Hc2bTsnOLCtIa9EHTBmBgXPsIJygE3FyUPsinoOcETGEZ1m7N4a1mLQWw==",
+  "dgSpecHash": "u6YkTkPTWG7DXVwWUG8XRbFequpWu6TjvLi3if1mXbMnvn328Ap//zWcyvpiJvwbDhFpICv55zcfVQNmzpYmoA==",
   "success": true,
-  "projectFilePath": "/home/christian/DevEnv/Projects/Amateur/CSharp/christiangapgue.cm/test/Hello2024CSharp/Hello2024CSharp.csproj",
+  "projectFilePath": "D:\\DevEnv\\Projects\\Amateur\\dotNet\\CSharp\\tests\\Hello2024CSharp\\Hello2024CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
